@@ -25,9 +25,15 @@ This project demonstrates how to **scrape product data from an e-commerce websit
 
 ##  Project Structure
 .
-├── Web_Scraping_With_EDA.ipynb # Main Jupyter Notebook
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
+- Web_Scraping_With_EDA.ipynb # Main Jupyter Notebook
+
+- Allrequirements.txt # Project dependencies
+
+- README.md # Project documentation
+
+- Cleaned_Data # Project data
+
+- Web_Link # Web link
 
 
 ---
@@ -65,3 +71,4 @@ Add NLP analysis on product descriptions.
 Eng. Abdullah Albuqmi
 
 GitHub: @AbdullahAlbuqmi
+
